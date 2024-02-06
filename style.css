@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+body{
+	background-color: #15125c;
+	color: #fcba03;
+	font-family: 'Teko',sans-serif;
+	font-size: 32px;
+}
+
+p {
+	font-family: 'Teko',sans-serif;
+	color: #fcba03;
+	font-size: 24px;
+}
+
+h1 {
+	font-family: 'Protest Guerrilla', sans-serif;
+	color: #991a1a;
+	text-decoration: overline;
+	font-size:220px ;
+}
+
+h3{
+	font-family: 'Teko',sans-serif;
+}
+a{
+	color: antiquewhite;
+}
+
+#paragraph {
+	color: palegreen;
+}
+
+
+.emphasis {
+	text-decoration: overline;
+	color: antiquewhite;
+}
+
+.organizer {
+	text-align: center;
+	font-family: 'Teko',sans-serif;
+
+}
